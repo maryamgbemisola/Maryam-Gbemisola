@@ -1,5 +1,9 @@
 # Hi, My name is Maryam Gbemisola
 
+### I am a qualified  and professional Business Intelligence Analyst, I possess comprehensive expertise in the fundamental Concepts of Data, Data Modelling and Data Visualization allowing me to discuss Business Intelligence matters. I am skilled in using Power BI, Excel, Tableau and SQL with a strong blend of Creative and analytical capabilities. Additionally,I am a Detail- Oriented Team Player
+
+
+
 
 
 Here are some ideas to get you started:
