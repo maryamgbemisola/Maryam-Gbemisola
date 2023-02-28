@@ -1,10 +1,6 @@
-# Hi there 👋
+# Hi, My name is Maryam Gbemisola
 
 
-My name is Maryam Gbemisola
-
-<!--
-**maryamgbemisola/MaryamGbemisola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
