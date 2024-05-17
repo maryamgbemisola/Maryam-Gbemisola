@@ -4,6 +4,7 @@
 
 - 💬 Ask me about Data Analysis
 - 📫 You can reach me : https://sites.google.com/view/maryam-gbemisola
+- 📫 Check out my Tableau Public Profile:  https://public.tableau.com/app/profile/maryam.gbemisola/vizzes
 - 😄 Pronouns: She / her
 - ⚡ Fun fact: I am a continous learner
 
