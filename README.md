@@ -4,8 +4,10 @@
 
 * 💬 Ask me about Data Analysis
 * 💬 My interest is in Business Intelligence, Data Analysis, Data Science and Machine Learning ,Microsoft Tools and the Micosoft Power Platform
-* 📫 You can reach me : https://sites.google.com/view/maryam-gbemisola
-* 📫 Check out my Tableau Public Profile:  https://public.tableau.com/app/profile/maryam.gbemisola/vizzes
+* 📫 [LinkedIn](https://www.linkedin.com/in/maryamgbemisola/)
+* 📫 [Website Portfolio](https://sites.google.com/view/maryam-gbemisola)
+* 📫 [Tableau Public Profile](https://public.tableau.com/app/profile/maryam.gbemisola/vizzes)
+* 📫 [Mail](maryamgbemisolabusinessanalyst@gmail.com)
 * 😄 Pronouns: She / her
 * ⚡ Fun fact: I am a continous learner
 
